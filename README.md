@@ -4,7 +4,7 @@ A comprehensive weapon license management system for FiveM ESX servers with appl
 exam system, police management tools, and advanced license verification features.
 
 ## Disclaimer
-Any of my free releases are scripts I have made for my server and decided to distribute for free! I am happy to collaberate with any other creators on upcoming projects as I have many more in the works!
+Any of my free releases are scripts I have made for my server and decided to distribute for free! I am happy to collaberate with any other creators on upcoming projects as I have many more in the works! Tebex and Discord for support and more free releases coming soon!
 
 ## 🛠️ Installation
 
@@ -132,7 +132,7 @@ See LICENSE for full terms.
 ## 🔄 Updates
 
 I DO NOT WORK ON QBCORE CURRENTLY! I WORK ON ESX FRAMWORK ONLY IF YOU NEED THIS CONVERTED TO QBCORE YOU WILL HAVE TO ASK SOMEONE ELSE TO DO IT FOR YOU. I CANNOT TEST QBCORE PROPERLY AS I DONT HAVE A TEST SERVER SETUP FOR IT YET. In the future on my paid releases I plan to make them for both frameworks! Sorry for any inconvenience!
-Any updates will be uploaded to github as I make them. In the future I will have a tebex and discord for support and more scripts! Enjoy!
+Any updates will be uploaded to github as I make them. Enjoy!
 
 ---
 
