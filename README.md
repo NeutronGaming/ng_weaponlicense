@@ -4,7 +4,7 @@ A comprehensive weapon license management system for FiveM ESX servers with appl
 exam system, police management tools, and advanced license verification features.
 
 ## Disclaimer
-Any of my free releases are scripts I have made for my server and decided to distribute for free! You do not have my permission to redistribute my work without at least giving my credits! I am happy to collaberate with any other creators on upcoming projects as I have many more in the works!
+Any of my free releases are scripts I have made for my server and decided to distribute for free! I am happy to collaberate with any other creators on upcoming projects as I have many more in the works!
 
 ## 🛠️ Installation
 
