@@ -1,10 +1,12 @@
 # 🔫 NG Weapon License System #
 
+https://discord.gg/zeqmzY2sU7
+
 A comprehensive weapon license management system for FiveM ESX servers with application processing,
 exam system, police management tools, and advanced license verification features.
 
 ## Disclaimer
-Any of my free releases are scripts I have made for my server and decided to distribute for free! I am happy to collaberate with any other creators on upcoming projects as I have many more in the works! Tebex and Discord for support and more free releases coming soon!
+Any of my free releases are scripts I have made for my server and decided to distribute for free! I am happy to collaberate with any other creators on upcoming projects as I have many more in the works! Tebex for paid releases coming soon! Join discord above for support!
 
 ## 🛠️ Installation
 
